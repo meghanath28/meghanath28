@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Meghanath</h1>
+<h3 align="center">🚀 Backend Engineer | Distributed Systems | Scalable APIs</h3>
 
-<!--
-**meghanath28/meghanath28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;System+Design+Learner;Kafka+%7C+Microservices+%7C+Scaling&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/meghanath-yarrakula">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:meghanathyarrakula2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+* Backend Engineer (4+ years)
+* Learning System Design & Distributed Systems
+* Building real-world backend projects
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,docker,kafka,linux,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghanath28&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanath28" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+* System Design
+* Backend Development
+* Concurrency
+
+---
+
+## ⚡ Quote
+
+> Build systems, not just code.
