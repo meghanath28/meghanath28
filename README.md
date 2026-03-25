@@ -2,7 +2,6 @@
 
 Backend Engineer | Distributed Systems | Scalable APIs
 
----
 
 **What I do**
 
