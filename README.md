@@ -44,8 +44,8 @@ Git, IntelliJ, Linux
 
 ## Reach me
 
-💼 LinkedIn: https://www.linkedin.com/in/meghanath-yarrakula/
-📧 Email: meghanathyarrakula2@gmail.com
+💼 LinkedIn: [Meghanath Yarrakula](https://www.linkedin.com/in/meghanath-yarrakula/)
+📧 Email: [meghanathyarrakula2@gmail.com](mailto:meghanathyarrakula2@gmail.com)
 
 ---
 
