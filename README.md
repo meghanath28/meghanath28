@@ -1,57 +1,54 @@
-<h1 align="center">Hi 👋, I'm Meghanath</h1>
-<h3 align="center">🚀 Backend Engineer | Distributed Systems | Scalable APIs</h3>
+# Hi, I’m Meghanath 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;System+Design+Learner;Kafka+%7C+Microservices+%7C+Scaling&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/meghanath-yarrakula">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:meghanathyarrakula2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+Backend Engineer | Distributed Systems | Scalable APIs
 
 ---
 
-## 🧠 About Me
+## What I do
 
-* Backend Engineer (4+ years)
-* Learning System Design & Distributed Systems
-* Building real-world backend projects
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,docker,kafka,linux,git" />
-</p>
+* Build and scale backend systems
+* Design APIs and services for real-world use cases
+* Focus on performance, reliability, and clean architecture
 
 ---
 
-## 📊 GitHub Stats
+## Tech stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghanath28&show_icons=true" />
-</p>
+**Languages:**
+Java, SQL
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghanath28" />
-</p>
+**Backend:**
+Spring Boot, REST APIs, Microservices
+
+**Concurrency:**
+Multithreading, Executors, async processing
+
+**Datastores:**
+MySQL, PostgreSQL, Redis
+
+**Infra:**
+Docker, basic AWS, system design fundamentals
+
+**Tools:**
+Git, IntelliJ, Linux
 
 ---
 
-## 🚀 Current Focus
+## Currently working on
 
-* System Design
-* Backend Development
-* Concurrency
+* Deep diving into distributed systems & system design
+* Building a production-grade backend project
+* Learning Kafka, caching strategies, and scalability patterns
 
 ---
 
-## ⚡ Quote
+## Reach me
 
-> Build systems, not just code.
+💼 LinkedIn: https://www.linkedin.com/in/meghanath-yarrakula/
+📧 Email: meghanathyarrakula2@gmail.com
+
+---
+
+## Note
+
+Focused on building systems that are scalable, maintainable, and production-ready.
