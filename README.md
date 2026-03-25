@@ -10,7 +10,6 @@ Backend Engineer | Distributed Systems | Scalable APIs
 * Design APIs and services for real-world use cases
 * Focus on performance, reliability, and clean architecture
 
----
 
 ## Tech stack
 
@@ -32,7 +31,6 @@ Docker, basic AWS, system design fundamentals
 **Tools:**
 Git, IntelliJ, Linux
 
----
 
 ## Currently working on
 
@@ -40,7 +38,6 @@ Git, IntelliJ, Linux
 * Building a production-grade backend project
 * Learning Kafka, caching strategies, and scalability patterns
 
----
 
 ## Reach me
 
